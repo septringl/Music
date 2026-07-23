@@ -1,0 +1,19 @@
+{
+  "Songs": [
+    {
+      "Title": "Judul Lagu",
+      "Artist": "Nama Artis",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://123456789",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Judul Lagu 2",
+      "Artist": "Nama Artis 2",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://987654321"
+    }
+  ]
+}
