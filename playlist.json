@@ -1,19 +1,20 @@
 {
   "Songs": [
     {
-      "Title": "Judul Lagu",
-      "Artist": "Nama Artis",
+      "Title": "In Da Club",
+      "Artist": "50 Cent",
       "Genre": "EDM",
       "ImageId": "",
-      "SoundId": "rbxassetid://123456789",
-      "Speed": 0.5
+      "SoundId": "rbxassetid://129214033980437",
+      "Speed": 0.43
     },
-    {
-      "Title": "Judul Lagu 2",
-      "Artist": "Nama Artis 2",
-      "Genre": "RnB",
+   {
+      "Title": "In Da Club",
+      "Artist": "50 Cent",
+      "Genre": "EDM",
       "ImageId": "",
-      "SoundId": "rbxassetid://987654321"
+      "SoundId": "rbxassetid://129214033980437",
+      "Speed": 0.43
     }
   ]
 }
