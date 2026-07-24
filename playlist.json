@@ -24,5 +24,21 @@
       "SoundId": "rbxassetid://94566263300709",
       "Speed": 0.43
     }
+    {
+      "Title": "Drop It Like It's Hot",
+      "Artist": "Snoop Dogg",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://88732381962602",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Black And Yellow",
+      "Artist": "Wiz Khalifa",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://121448648160520",
+      "Speed": 0.438
+    }  
   ]
 }
