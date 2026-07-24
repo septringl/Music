@@ -3,17 +3,25 @@
     {
       "Title": "In Da Club",
       "Artist": "50 Cent",
-      "Genre": "EDM",
+      "Genre": "Hip-Hop",
       "ImageId": "",
       "SoundId": "rbxassetid://129214033980437",
       "Speed": 0.43
     },
    {
-      "Title": "In Da Club",
-      "Artist": "50 Cent",
-      "Genre": "EDM",
+      "Title": "Kill Bill",
+      "Artist": "Sza",
+      "Genre": "RnB",
       "ImageId": "",
-      "SoundId": "rbxassetid://129214033980437",
+      "SoundId": "rbxassetid://71687157610233",
+      "Speed": 0.43
+    },
+    {
+      "Title": "Still",
+      "Artist": "Dr. Dre",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://94566263300709",
       "Speed": 0.43
     }
   ]
