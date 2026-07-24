@@ -8,7 +8,7 @@
       "SoundId": "rbxassetid://129214033980437",
       "Speed": 0.43
     },
-   {
+    {
       "Title": "Kill Bill",
       "Artist": "Sza",
       "Genre": "RnB",
@@ -31,6 +31,6 @@
       "ImageId": "",
       "SoundId": "rbxassetid://121448648160520",
       "Speed": 0.438
-    }  
+    }
   ]
 }
