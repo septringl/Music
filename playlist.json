@@ -5,7 +5,7 @@
       "Artist": "50 Cent",
       "Genre": "Hip-Hop",
       "ImageId": "",
-      "SoundId": "rbxassetid://129214033980437",
+      "SoundId": "rbxassetid://108129777505447",
       "Speed": 0.43
     },
     {
@@ -13,7 +13,7 @@
       "Artist": "Sza",
       "Genre": "RnB",
       "ImageId": "",
-      "SoundId": "rbxassetid://71687157610233",
+      "SoundId": "rbxassetid://115717022119412",
       "Speed": 0.43
     },
     {
@@ -21,7 +21,7 @@
       "Artist": "Dr. Dre",
       "Genre": "Hip-Hop",
       "ImageId": "",
-      "SoundId": "rbxassetid://94566263300709",
+      "SoundId": "rbxassetid://136964433866422",
       "Speed": 0.43
     },
     {
@@ -29,7 +29,7 @@
       "Artist": "Wiz Khalifa",
       "Genre": "Hip-Hop",
       "ImageId": "",
-      "SoundId": "rbxassetid://121448648160520",
+      "SoundId": "rbxassetid://133290686140168",
       "Speed": 0.438
     },
     {
@@ -336,13 +336,93 @@
       "SoundId": "rbxassetid://105348209945991",
       "Speed": 0.438
     },
-     {
+    {
       "Title": "Cranes in the Sky",
       "Artist": "Solange",
       "Genre": "RnB",
       "ImageId": "",
       "SoundId": "rbxassetid://105348209945991",
       "Speed": 0.438
-    }
+    },
+    {
+      "Title": "Love Me Not",
+      "Artist": "Ravyn Lenae",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://97465062320865",
+      "Speed": 0.438
+    },
+    {
+      "Title": "That's Hilarious",
+      "Artist": "Charlie Puth",
+      "Genre": "Pop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://116085320328540",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Send My Love",
+      "Artist": "Adele",
+      "Genre": "Pop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://71208065111789",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Don't You Remember",
+      "Artist": "Adele",
+      "Genre": "Pop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://121361824641181",
+      "Speed": 0.438
+    },
+    {
+      "Title": "All To Well",
+      "Artist": "Taylor Swift",
+      "Genre": "Pop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://126626073165391",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Super Far",
+      "Artist": "Lany",
+      "Genre": "Pop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://87959645897164",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Cause You Have To",
+      "Artist": "Lany",
+      "Genre": "Pop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://124858549144891",
+      "Speed": 0.438
+    },
+    {
+      "Title": "XXL",
+      "Artist": "Lany",
+      "Genre": "Pop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://90351223129572",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Alonica",
+      "Artist": "Lany",
+      "Genre": "Pop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://119557576856423",
+      "Speed": 0.438
+    },
+    {
+      "Title": "You",
+      "Artist": "Lany",
+      "Genre": "Pop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://106588906339683",
+      "Speed": 0.438
+    },
   ]
 }
