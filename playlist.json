@@ -162,10 +162,186 @@
     },
     {
       "Title": "Cartoons & Cereal ft. Gunplay",
-      "Artist": "XXXTENTACION",
+      "Artist": "Kendrick Lamar",
       "Genre": "Hip-Hop",
       "ImageId": "",
       "SoundId": "rbxassetid://101723780733083",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Don't",
+      "Artist": "Bryson Tiller",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://95725228705462",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Cuff It",
+      "Artist": "Beyonce",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://107770445483417",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Best Part",
+      "Artist": "Daniel Caesar",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://138667326132182",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Pink + White",
+      "Artist": "Frank Ocean",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://94613984028473",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Essence",
+      "Artist": "Wizkid ft. Tems",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://138830659731544",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Snooze",
+      "Artist": "SZA",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://105472369377751",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Leave The Door Open",
+      "Artist": "Silk Sonic",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://109209821989433",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Girls Need Love",
+      "Artist": "Summer Walker",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://120589316303287",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Come Through and Chill",
+      "Artist": "Miguel ft. J. Cole",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://84999555256434",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Good Days",
+      "Artist": "SZA",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://133042874165111",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Formation",
+      "Artist": "Beyonce",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://111466228145241",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Die For You",
+      "Artist": "The Weeknd",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://123599786473820",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Get You",
+      "Artist": "Daniel Caesar",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://99570291768040",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Boo'd Up",
+      "Artist": "Ella Mai",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://99751955483666",
+      "Speed": 0.438
+    },
+    {
+      "Title": "The Weekend",
+      "Artist": "SZA",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://121587706742540",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Redbone",
+      "Artist": "Childish Gambino",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://78984855020175",
+      "Speed": 0.438
+    },
+    {
+      "Title": "No Guidance",
+      "Artist": "Chris Brown ft. Drake",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://136214613681994",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Pick up your feelings",
+      "Artist": "Jazmine Sullivan",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://85662578095790",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Needed Me",
+      "Artist": "Rihanna",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://108460786441015",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Session 32",
+      "Artist": "Summer Walker",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://100207436756310",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Cranes in the Sky",
+      "Artist": "Solange",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://105348209945991",
+      "Speed": 0.438
+    },
+     {
+      "Title": "Cranes in the Sky",
+      "Artist": "Solange",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://105348209945991",
       "Speed": 0.438
     }
   ]
