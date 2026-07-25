@@ -415,6 +415,102 @@
       "ImageId": "",
       "SoundId": "rbxassetid://106588906339683",
       "Speed": 0.438
+    },
+    {
+      "Title": "BIRDS OF A FEATHER",
+      "Artist": "Billie Eilish",
+      "Genre": "Pop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://115681974800448",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Lose Control",
+      "Artist": "Teddy Swims",
+      "Genre": "Pop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://135725307683837",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Thats So True",
+      "Artist": "Gracie Abrams",
+      "Genre": "Pop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://94583614513049",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Lola Young",
+      "Artist": "Messy",
+      "Genre": "Pop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://81558213645413",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Abracadabra",
+      "Artist": "Lady Gaga",
+      "Genre": "Pop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://101380695667475",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Anxienty",
+      "Artist": "Doechii",
+      "Genre": "Pop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://108978999875783",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Ordinary",
+      "Artist": "Alex Warren",
+      "Genre": "Pop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://137898754636716",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Burn It Down",
+      "Artist": "Shaboozey",
+      "Genre": "Pop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://133496027672918",
+      "Speed": 0.438
+    },
+    {
+      "Title": "SHE DID IT AGAIN",
+      "Artist": "Tyla",
+      "Genre": "Pop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://122606934075179",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Aperture",
+      "Artist": "Harry Styles",
+      "Genre": "Pop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://120565708720811",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Risk It All",
+      "Artist": "Bruno Mars",
+      "Genre": "Pop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://81612793602742",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Drop Dead",
+      "Artist": "Olivia Rodrigo",
+      "Genre": "Pop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://114996592131535",
+      "Speed": 0.438
     }
   ]
 }
