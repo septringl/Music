@@ -519,6 +519,38 @@
       "ImageId": "",
       "SoundId": "rbxassetid://95832885557105",
       "Speed": 0.438
+    },
+    {
+      "Title": "She",
+      "Artist": "Rich Brian",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://108213161891440",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Dat Stick",
+      "Artist": "Rich Brian",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://78027855502085",
+      "Speed": 0.438
+    },
+    {
+      "Title": "100 Degrees",
+      "Artist": "Rich Brian",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://136412456640535",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Getcho Mans",
+      "Artist": "Rich Brian",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://104411548181336",
+      "Speed": 0.438
     }
   ]
 }
