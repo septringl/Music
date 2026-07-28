@@ -1057,11 +1057,27 @@
       "Speed": 0.438
     },
     {
-      "Title": "Dance Moneky",
+      "Title": "Dance Monkey",
       "Artist": "Tones And I",
       "Genre": "Pop",
       "ImageId": "",
       "SoundId": "rbxassetid://133242206321965",
+      "Speed": 0.438
+    },
+    {
+      "Title": "We On Go",
+      "Artist": "BIA",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://126638086075106",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Praise The Lord",
+      "Artist": "A$AP Rocky",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://113887594405875",
       "Speed": 0.438
     }
   ]
