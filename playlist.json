@@ -1079,6 +1079,22 @@
       "ImageId": "",
       "SoundId": "rbxassetid://113887594405875",
       "Speed": 0.438
+    },
+    {
+      "Title": "Sprinter",
+      "Artist": "Central Cee x Dave",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://127272277642779",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Just A Lil Bit",
+      "Artist": "50 Cent",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://124646414432730",
+      "Speed": 0.4000
     }
   ]
 }
