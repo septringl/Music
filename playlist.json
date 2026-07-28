@@ -960,5 +960,101 @@
       "SoundId": "rbxassetid://79380339383615",
       "Speed": 0.438
     },
+    {
+      "Title": "Cold Water",
+      "Artist": "Major Lazer",
+      "Genre": "Pop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://126438091146395",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Peaches",
+      "Artist": "Justin Bieber",
+      "Genre": "Pop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://110999965197550",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Lonely",
+      "Artist": "Justin Bieber",
+      "Genre": "Pop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://132082415062611",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Mistletoe",
+      "Artist": "Justin Bieber",
+      "Genre": "Pop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://119330665621311",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Eenie Meenie",
+      "Artist": "Justin Bieber",
+      "Genre": "Pop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://75306731028743",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Confident",
+      "Artist": "Justin Bieber",
+      "Genre": "Pop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://109365149525007",
+      "Speed": 0.438
+    },
+    {
+      "Title": "10,000 Hours",
+      "Artist": "Justin Bieber",
+      "Genre": "Pop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://112201097135730",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Where Are Ü Now",
+      "Artist": "Skrillex and Diplo",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://116448801093295",
+      "Speed": 0.438
+    },
+    {
+      "Title": "I'm The One",
+      "Artist": "DJ Khaled",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://116448801093295",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Intentions",
+      "Artist": "Justin Bieber",
+      "Genre": "Pop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://135125688709441",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Stuck With U",
+      "Artist": "Ariana Grande & Justin Bieber",
+      "Genre": "Pop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://80506518674624",
+      "Speed": 0.438
+    },
+    {
+      "Title": "Baby",
+      "Artist": "Justin Bieber",
+      "Genre": "Pop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://122226655051092",
+      "Speed": 0.438
+    },
   ]
 }
