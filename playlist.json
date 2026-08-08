@@ -1095,6 +1095,70 @@
       "ImageId": "",
       "SoundId": "rbxassetid://124646414432730",
       "Speed": 0.4000
+    },
+    {
+      "Title": "Minggu",
+      "Artist": "White Chorus ft. toxicdev!",
+      "Genre": "Mix Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://109359080321962",
+      "Speed": 0.4348
+    },
+    {
+      "Title": "Cus",
+      "Artist": "Feat. vander! & Fat Rorry",
+      "Genre": "Mix Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://120160914701054",
+      "Speed": 0.4348
+    },
+    {
+      "Title": "Kiri Kanan",
+      "Artist": "Inrahim",
+      "Genre": "Mix Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://82266151295564",
+      "Speed": 0.4348
+    },
+    {
+      "Title": "Lava",
+      "Artist": "Poris",
+      "Genre": "Mix Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://98122607695839",
+      "Speed": 0.4348
+    },
+    {
+      "Title": "Icon",
+      "Artist": "Poris",
+      "Genre": "Mix Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://77929578491270",
+      "Speed": 0.4348
+    },
+    {
+      "Title": "JKTEMO",
+      "Artist": "Ardy Minaj",
+      "Genre": "Mix Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://82020899280246",
+      "Speed": 0.4348
+    },
+    {
+      "Title": "JKTEMO",
+      "Artist": "Ardy Minaj",
+      "Genre": "Mix Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://82020899280246",
+      "Speed": 0.4348
+    },
+    {
+      "Title": "RAJA ANJ*NG",
+      "Artist": "Ardy Minaj",
+      "Genre": "Mix Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://90645175310271",
+      "Speed": 0.4348
     }
   ]
 }
