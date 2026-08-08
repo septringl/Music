@@ -1145,12 +1145,12 @@
       "Speed": 0.4348
     },
     {
-      "Title": "JKTEMO",
-      "Artist": "Ardy Minaj",
+      "Title": "Ombak",
+      "Artist": "Pros",
       "Genre": "Mix Hip-Hop",
       "ImageId": "",
-      "SoundId": "rbxassetid://82020899280246",
-      "Speed": 0.4348
+      "SoundId": "rbxassetid://123926818433515",
+      "Speed": 0.4000
     },
     {
       "Title": "RAJA ANJ*NG",
@@ -1158,6 +1158,14 @@
       "Genre": "Mix Hip-Hop",
       "ImageId": "",
       "SoundId": "rbxassetid://90645175310271",
+      "Speed": 0.4348
+    },
+    {
+      "Title": "Angin Kencang",
+      "Artist": "Basboi",
+      "Genre": "Mix Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://93864916411824",
       "Speed": 0.4348
     }
   ]
