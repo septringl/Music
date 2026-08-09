@@ -1313,7 +1313,7 @@
       "Speed": 0.4000
     },
     {
-      "Title": "I ᐸ3 Jawa Fineshyt",
+      "Title": "I Love Jawa Fineshyt",
       "Artist": "Mufaza",
       "Genre": "Mix Hip-Hop",
       "ImageId": "",
@@ -1390,6 +1390,30 @@
       "Genre": "Mix Hip-Hop",
       "ImageId": "",
       "SoundId": "rbxassetid://123977456655085",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Tumpah Tumpah",
+      "Artist": "Fury",
+      "Genre": "Mix Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://138429918478413",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "GayA idup",
+      "Artist": "Basboi",
+      "Genre": "Mix Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://123169398782442",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Gercep",
+      "Artist": "RAMENGVRL",
+      "Genre": "Mix Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://96049370864905",
       "Speed": 0.4000
     }
   ]
