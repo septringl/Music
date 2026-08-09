@@ -9,6 +9,14 @@
       "Speed": 0.438
     },
     {
+      "Title": "HIGHEST IN THE ROOM",
+      "Artist": "Travis Scott",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://128973992306829",
+      "Speed": 0.4000
+    },
+    {
       "Title": "Kill Bill",
       "Artist": "Sza",
       "Genre": "RnB",
@@ -1513,7 +1521,7 @@
       "Speed": 0.4000
     },
     {
-      "Title": "Langkah ",
+      "Title": "Langkah",
       "Artist": "Leend",
       "Genre": "Mix Hip-Hop",
       "ImageId": "",
@@ -1543,6 +1551,70 @@
       "ImageId": "",
       "SoundId": "rbxassetid://132001279178831",
       "Speed": 0.4000
+    },
+    {
+      "Title": "Kicau Mania",
+      "Artist": "Crawla",
+      "Genre": "Mix Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://125253566378622",
+      "Speed": 0.4348
+    },
+    {
+      "Title": "Paranoia",
+      "Artist": "Crawla",
+      "Genre": "Mix Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://128174877123157",
+      "Speed": 0.4348
+    },
+    {
+      "Title": "Di Bawah Bulan",
+      "Artist": "Poris",
+      "Genre": "Mix Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://108181263543907",
+      "Speed": 0.4348
+    },
+    {
+      "Title": "Diwaktunya",
+      "Artist": "Poris",
+      "Genre": "Mix Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://118618546234748",
+      "Speed": 0.4348
+    },
+    {
+      "Title": "Eksis",
+      "Artist": "Naufal Syachreza",
+      "Genre": "Mix Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://126443571400222",
+      "Speed": 0.4348
+    },
+    {
+      "Title": "Melodiez",
+      "Artist": "Fury+ & Concerto",
+      "Genre": "Mix Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://79781788816361",
+      "Speed": 0.4348
+    },
+    {
+      "Title": "Sejuknya malam",
+      "Artist": "Fury+ & Concerto",
+      "Genre": "Mix Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://73162481893883",
+      "Speed": 0.4348
+    },
+    {
+      "Title": "SS",
+      "Artist": "Ken Carson",
+      "Genre": "Mix Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://127668310566840",
+      "Speed": 0.4348
     }
   ]
 }
