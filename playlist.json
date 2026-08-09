@@ -1166,7 +1166,63 @@
       "Genre": "Mix Hip-Hop",
       "ImageId": "",
       "SoundId": "rbxassetid://93864916411824",
-      "Speed": 0.4348
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Emang Kita Temen",
+      "Artist": "LaFlame Shawty& Ardy Minaj",
+      "Genre": "Mix Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://95606554317709",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Kasih Aba Aba",
+      "Artist": "Naykilla, Tenxi & Jemsii",
+      "Genre": "Mix Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://93298124062764",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "EEEEE A",
+      "Artist": "Dia",
+      "Genre": "Mix Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://135481607312624",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Independent",
+      "Artist": "Tenxi& dia",
+      "Genre": "Mix Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://101824790201641",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Smack That",
+      "Artist": "Akon",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://98754037200970",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Kamu",
+      "Artist": "Crawla",
+      "Genre": "Mix Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://72007786361025",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Suisei - Attached",
+      "Artist": "Tenxi, Anangga",
+      "Genre": "Mix Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://92260445537150",
+      "Speed": 0.4000
     }
   ]
 }
