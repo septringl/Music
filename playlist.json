@@ -1991,6 +1991,62 @@
       "ImageId": "",
       "SoundId": "rbxassetid://74200299865045",
       "Speed": 0.4000
+    },
+    {
+      "Title": "Fell In Love",
+      "Artist": "Lil Tecca",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://136622951694833",
+      "Speed": 0.4348
+    },
+    {
+      "Title": "Trademark USA",
+      "Artist": "Baby Keem",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://94958329254835",
+      "Speed": 0.4348
+    },
+    {
+      "Title": "Range Brothers",
+      "Artist": "Baby Keem",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://136345036866459",
+      "Speed": 0.4348
+    },
+    {
+      "Title": "Crew",
+      "Artist": "Godlink",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://81835220846614",
+      "Speed": 0.4348
+    },
+    {
+      "Title": "Vamp Anthem",
+      "Artist": "Playboy Carti",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://138455991331878",
+      "Speed": 0.4348
+    },
+    {
+      "Title": "KRYPTONITE",
+      "Artist": "Don Toliver",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://78136997090743",
+      "Speed": 0.4348
+    },
+    {
+      "Title": "My Nigga",
+      "Artist": "YG",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://82664736048347",
+      "Speed": 0.4348
     }
   ]
 }
