@@ -1935,6 +1935,62 @@
       "ImageId": "",
       "SoundId": "rbxassetid://91563604776129",
       "Speed": 0.4000
+    },
+    {
+      "Title": "Hell Shell",
+      "Artist": "Young Nudy",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://90019665063091",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Sauce it up",
+      "Artist": "Lil Uzi Vert",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://90373897399584",
+      "Speed": 0.4000
+    }
+    {
+      "Title": "Glock In My Lap",
+      "Artist": "21 Savage",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://89942912093714",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "NOSTYLIST",
+      "Artist": "Destroy Lonely",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://91829367360861",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Already Rich",
+      "Artist": "Yeat",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://89449641629351",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Bad Boy",
+      "Artist": "Juice WRLD & Young Thug",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://96417484319180",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Rockstar Made",
+      "Artist": "Playboy Carti",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://74200299865045",
+      "Speed": 0.4000
     }
   ]
 }
