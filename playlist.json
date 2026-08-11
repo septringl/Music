@@ -2046,7 +2046,215 @@
       "Genre": "Hip-Hop",
       "ImageId": "",
       "SoundId": "rbxassetid://87057436796248",
-      "Speed": 0.4348
+      "Speed": 0.4000
+    },
+    {
+      "Title": "HIGHJACK",
+      "Artist": "A$AP Rocky",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://132096115138370",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Me N My Kup",
+      "Artist": "Ken Carson",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://77889524585281",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Rackz got me",
+      "Artist": "Yeat",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://90108804711830",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Darkside",
+      "Artist": "Polo G",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://140539512107549",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "She Say She Love Me",
+      "Artist": "Chief Keef",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://83166707175000",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "KEHLANI",
+      "Artist": "Jordan Adetunji",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://87087939918780",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Big Dawgs",
+      "Artist": "Hanumankind & Kalmi",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://120639389718711",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Family Ties",
+      "Artist": "Baby Keem & Kendrick Lamar",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://70937433556401",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "If Looks Could Kill",
+      "Artist": "Destroy Lonely",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://82458966456170",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "BROTHER STONE",
+      "Artist": "Don Toliver",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://93678163979836",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Long Time",
+      "Artist": "Playboy Carti",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://132641315682670",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Trance",
+      "Artist": "Metro Boomin, Travis Scott & Young Thug",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://136912231369428",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Neon Guts",
+      "Artist": "Lil Uzi Vert",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://73111358209277",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "SOLO STEPPIN CRETE BOY",
+      "Artist": "Lil Yachty",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://90706340170444",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Yah Mean",
+      "Artist": "Playboi Carti",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://99867635190694",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "GLOCK",
+      "Artist": "Don Toliver",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://105370339600590",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Lo Mein",
+      "Artist": "Lil Uzi Vert",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://121454222822598",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Get Busy",
+      "Artist": "Yeat",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://80752036624676",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Yessirskiii",
+      "Artist": "Lil Uzi Vert & 21 Savage",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://88724743334898",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Money so big",
+      "Artist": "Yeat",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://132886631227516",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "R.I.P",
+      "Artist": "Playboi Carti",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://102010237466754",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Magic Johnson",
+      "Artist": "Ian",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://122326168806749",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "200 FOR LUNCH",
+      "Artist": "Gunna",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://100995276091742",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Succubus",
+      "Artist": "Ken Carson",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://81152413304239",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "ONE CALL",
+      "Artist": "Rich Amiri",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://125052572794617",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "ICE AGE",
+      "Artist": "Don Toliver",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://100268627508338",
+      "Speed": 0.4000
     }
   ]
 }
