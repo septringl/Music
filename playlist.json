@@ -2263,6 +2263,22 @@
       "ImageId": "",
       "SoundId": "rbxassetid://133936337149500",
       "Speed": 0.4000
+    },
+    {
+      "Title": "Open Arms",
+      "Artist": "SZA",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://80013296900876",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Gangsta's Paradise",
+      "Artist": "Coolio",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://88001486181474",
+      "Speed": 0.4000
     }
   ]
 }
