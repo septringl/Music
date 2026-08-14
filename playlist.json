@@ -3327,6 +3327,70 @@
       "ImageId": "",
       "SoundId": "rbxassetid://86173491845005",
       "Speed": 0.4000
+    },
+    {
+      "Title": "Draco",
+      "Artist": "Playboi Carti",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://136807413938323",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Jump Around",
+      "Artist": "House of Pain",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://123857393125740",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Insane In The Brain",
+      "Artist": "Cypress Hill",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://116284001730073",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Regulate",
+      "Artist": "Warren G",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://75097246531067",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "All Eyez On Me",
+      "Artist": "2Pac",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://122005697502136",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Gin And Juice",
+      "Artist": "Snopp Dogg",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://128161542271034",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Fuk Da Police",
+      "Artist": "N.W.A.",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://117909658706470",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Straight Outta Compton",
+      "Artist": "N.W.A.",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://124051197764823",
+      "Speed": 0.4000
     }
   ]
 }
