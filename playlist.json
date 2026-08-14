@@ -2983,6 +2983,262 @@
       "ImageId": "",
       "SoundId": "rbxassetid://88836367977644",
       "Speed": 0.4000
-    }
+    },
+    {
+      "Title": "Lose Yourself",
+      "Artist": "Eminem",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://132147348807932",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Mockingbird",
+      "Artist": "Eminem",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://132909511423987",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Not Afraid",
+      "Artist": "Eminem",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://112906079981757",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Love The Way You Lie",
+      "Artist": "Eminem",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://93049655788097",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Sing For The Moment",
+      "Artist": "Eminem",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://120461307249781",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Rap God Explicit",
+      "Artist": "Eminem",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://105481418051045",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Till I Collapse",
+      "Artist": "Eminem",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://73281453778732",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Stan Long Version",
+      "Artist": "Eminem",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://78256445783825",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Calling My Phone",
+      "Artist": "Lil Tjay",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://79267167787747",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "The Monster Explicit",
+      "Artist": "Eminem",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://96429362735930",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Dangerous Woman",
+      "Artist": "Ariana Grande",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://101347215706004",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "All Eyez On Me",
+      "Artist": "2Pac",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://86950747534493",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Gangsta's Paradise",
+      "Artist": "Coolio",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://135256595298189",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Everyday",
+      "Artist": "Ariana Grande",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://72802780775234",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Family Affair",
+      "Artist": "Mary J. Blige",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://74731456117461",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Only Love Can Hurt Like This",
+      "Artist": "Paloma Faith",
+      "Genre": "Pop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://90288429258091",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "One Last Time",
+      "Artist": "Ariana Grande",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://75430450817994",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Bloodline",
+      "Artist": "Ariana Grande",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://130989894151781",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Thank u, next",
+      "Artist": "Ariana Grande",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://125786910792281",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Into You",
+      "Artist": "Ariana Grande",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://71751686969276",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "No Tears Left To Cry",
+      "Artist": "Ariana Grande",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://120230236811573",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Save Your Tears",
+      "Artist": "The Weeknd",
+      "Genre": "Pop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://104420284022466",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Old Town Road",
+      "Artist": "Lil Nas",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://112300070494124",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Cardigan",
+      "Artist": "Taylor Swift",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://139085936714920",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Family Affair",
+      "Artist": "Mary J. Blige",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://96940843289424",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Only Love Can Hurt Like This",
+      "Artist": "Paloma Faith",
+      "Genre": "Pop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://106663934202868",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "You",
+      "Artist": "Lloyd",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://121348446454747",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Ignition",
+      "Artist": "R. Kelly",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://81330097763622",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Bartender",
+      "Artist": "T-Pain",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://137736597920661",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "My Boo",
+      "Artist": "Usher",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://83930212999438",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "With You",
+      "Artist": "Chris Brown",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://82713216607686",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Be Without You",
+      "Artist": "Mary J. Blige",
+      "Genre": "RnB",
+      "ImageId": "",
+      "SoundId": "rbxassetid://98891453864297",
+      "Speed": 0.4000
+    }    
   ]
 }
