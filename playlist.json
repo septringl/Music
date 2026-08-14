@@ -3943,6 +3943,374 @@
       "ImageId": "",
       "SoundId": "rbxassetid://110231688703015",
       "Speed": 0.4000
+    },
+    {
+      "Title": "No Idea",
+      "Artist": "Dont Toliver",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://104703562013974",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Not You Too ",
+      "Artist": "Drake",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://96539282070584",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Nuts",
+      "Artist": "Lill Peep",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://138150738342697",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Obsessed With You",
+      "Artist": "Central Cee",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://115807353137690",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Oke",
+      "Artist": "K3bi",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://80240208378316",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Some More",
+      "Artist": "Playboy Carti",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://134863587530032",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Deep Wounds",
+      "Artist": "Polo G",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://87906811526337",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Deep Wounds",
+      "Artist": "Polo G",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://87906811526337",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Heartless",
+      "Artist": "Polo G",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://92774588121453",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Martin & Gina",
+      "Artist": "Polo G",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://116247170480614",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "RAPSTAR",
+      "Artist": "Polo G",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://124908214468958",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "WHAT YOU KNOW BOUT LOVE",
+      "Artist": "Pop Smoke",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://123650434640049",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "PRIDE",
+      "Artist": "Kendrick Lamar",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://93754390924884",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "REJECT",
+      "Artist": "Quest",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://99764071419902",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Not So Bad",
+      "Artist": "Rae Sremmurd",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://128646114694908",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Raindance",
+      "Artist": "Dave",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://70905761981737",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Rich Baby Daddy",
+      "Artist": "Drake",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://100032566382273",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Rover",
+      "Artist": "Simba",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://102755275840105",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Sdp Interlude",
+      "Artist": "Travis Scott",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://80233466643957",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Shabang",
+      "Artist": "Drake",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://140150326445209",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "ILMB",
+      "Artist": "Sheck Wes",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://122203165644104",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "SICKO MODE",
+      "Artist": "Travis Scott",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://98712321628185",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Silence",
+      "Artist": "Khalid",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://91260943557242",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "SLOW DANCING IN THE DARK ",
+      "Artist": "Joji",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://117816793769640",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "SLOW DANCING IN THE DARK ",
+      "Artist": "Joji",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://117816793769640",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Knock Knock",
+      "Artist": "Sofaygo",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://117973833895205",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Solo",
+      "Artist": "Future",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://134978211042721",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Sunflower",
+      "Artist": "Swae Lee",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://135764308950477",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "SUPER EKSIS",
+      "Artist": "Naufal Fahreza",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://136960562766462",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "SWAG",
+      "Artist": "Obyrins",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://98118176471077",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Swimming Pools",
+      "Artist": "Kendrick Lamar",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://105472749203297",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "TELEKINESIS",
+      "Artist": "Travis Scott",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://82363553729357",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "TELESCOPE ",
+      "Artist": "TXWN",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://104218733401144",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "THANK GOD",
+      "Artist": "Travis Scott",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://116755847566520",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Not Sober",
+      "Artist": "The Kid LAROI",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://117010814872498",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "TRAGIC",
+      "Artist": "The Kid LAROI",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://85365630559523",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "GO",
+      "Artist": "The Kid LAROI",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://103356197652541",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "The Next Episode",
+      "Artist": "Dr Dre",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://71659977707915",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "TOPIA TWINS",
+      "Artist": "Travis Scott",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://74877432727995",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "CONTEST",
+      "Artist": "Travis Scott",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://75906787605213",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Young, Wild & Free",
+      "Artist": "Snopp Dogg",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://125178020985111",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "PBT",
+      "Artist": "Travis Scott",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://129210103982667",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Trust no Baddie",
+      "Artist": "Leend",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://104345111510633",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "VVV",
+      "Artist": "Playboy Carti",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://138779799920637",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Wish",
+      "Artist": "Trippie Red",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://70371646913144",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Yebbas Heartbreak",
+      "Artist": "Drake",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://111469181210405",
+      "Speed": 0.4000
     }
   ]
 }
