@@ -2367,6 +2367,622 @@
       "ImageId": "",
       "SoundId": "rbxassetid://92390760742529",
       "Speed": 0.4000
+    },
+    {
+      "Title": "Big Poppa",
+      "Artist": "The Notorious B.I.G.",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://93480663127709",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "4X4.",
+      "Artist": "Travis Scott",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://113247548063904",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "ALL RED",
+      "Artist": "Playboy Carti",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://122168539940088",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "BABY I'M BACK",
+      "Artist": "The Kid LAROI",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://118294486412560",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Ball Wo You",
+      "Artist": "21 Savage",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://122619914927198",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Ballin",
+      "Artist": "Mustard",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://110423343103778",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "I Don t F*ck With You",
+      "Artist": "Big Sean ",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://99281025876626",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Black Beatles",
+      "Artist": "Rae Sremmurd",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://122148166840577",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "California Love",
+      "Artist": "Tupac Shakur",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://71579413128011",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Can't Leave Without It",
+      "Artist": "21 Savage",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://139724931946122",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Cinderella",
+      "Artist": "Travis Scott",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://77114351307001",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Control",
+      "Artist": "Zoe Wees",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://128294119700965",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Dark Thoughts",
+      "Artist": "Lil Tecca",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://111341838201565",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Doja",
+      "Artist": "Central Cee",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://109581928127592",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "DON'T YOU LIE",
+      "Artist": "Offset",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://77198229486648",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Dothatsh*t",
+      "Artist": "Playboy Carti",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://125047519123635",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Drip or Drown",
+      "Artist": "Gunna",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://127393630846216",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Dumbo",
+      "Artist": "Travis Scott",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://74922744301632",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Erase Your Social",
+      "Artist": "Lil Uzi Vert",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://99931634849737",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "F.N",
+      "Artist": "Lil Tjay",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://114568304350934",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Fashion Killa",
+      "Artist": "A$AP Rocky",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://82887147216258",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Fell In Luv",
+      "Artist": "Bryson Tiller",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://105588481782590",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Flex",
+      "Artist": "Playboi Carti",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://130187506850113",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "For The Night",
+      "Artist": "Conor Maynard",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://73812463663965",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Foreign",
+      "Artist": "Playboy Carti",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://97003473817115",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Freestyle",
+      "Artist": "Lil Baby",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://127588032631132",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "F*ck Tha Police",
+      "Artist": " N.W.A (Niggaz Wit Attitudes)",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://116945319120148",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Futsal Shuffle 2020",
+      "Artist": "Lil Uzi Vert",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://99002825669802",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Half & Half.",
+      "Artist": "Playboi Carti",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://134417135730532",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Hot Girl Bummer",
+      "Artist": "Blackbear",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://80241837176956",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Hot Ngga.",
+      "Artist": "Bobby Shmurda",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://136963636615139",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Empire State Of Mind",
+      "Artist": "JAŸ-Z",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://92200191109303",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Just Wanna Rock.",
+      "Artist": "Lil Uzi Vert",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://77162999737521",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Laugh Now Cry Later",
+      "Artist": "Drake",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://133779676158236",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Lean 4 Real",
+      "Artist": "Playboy Carti",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://138776286462172",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Lemonade",
+      "Artist": "Gunna",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://92004484871575",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Let It Go",
+      "Artist": "Playboy Carti",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://105375995135233",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Life Goes On",
+      "Artist": "Oliver Tree",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://91011417480516",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "All My Life",
+      "Artist": "Lil Durk",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://111619789556108",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Lookin",
+      "Artist": "Playboi Carti",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://132160166033925",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Love Sosa",
+      "Artist": "Chief Keef",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://76520482095402",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Love",
+      "Artist": "Lil Wayne",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://130457050740420",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Loyal",
+      "Artist": "Chris Brown",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://121449367501152",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Breaking News",
+      "Artist": "Machine Gun Kelly",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://119739815776178",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Mask Off",
+      "Artist": "Kendrick Lamar",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://86514239483529",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Me and My Brother",
+      "Artist": "5ive",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://77998121250752",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "MIDDLE CHILD",
+      "Artist": "J Cole",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://115254033129537",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Ms. Jackson",
+      "Artist": "Outkast",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://129318036435356",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Loving Fairytale Pt. 2",
+      "Artist": "NBA YoungBoy",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://110980435806298",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Need It",
+      "Artist": "Migos",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://94596442502790",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "New Choppa",
+      "Artist": "Playboy Carti",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://115269765788560",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "New N3on",
+      "Artist": "Playboy Carti",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://124645010588285",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "New Tank",
+      "Artist": "Playboy Carti",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://116554752606032",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "No Role Modelz",
+      "Artist": "J Cole",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://86947145231331",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "No Time",
+      "Artist": "Playboy Carti",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://82515768593128",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Nokia",
+      "Artist": "Playboy Carti",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://110913438610929",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Not Like Us",
+      "Artist": "Kendrick Lamar",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://127150045021495",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Nuthin' But A G Thang",
+      "Artist": "Dr Dre",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://95180094382947",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Off The Meter",
+      "Artist": "Dr Dre",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://96300757994318",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "On One Tonight",
+      "Artist": "Gunna",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://81619244247702",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "On That Time",
+      "Artist": "Playboy Carti",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://137508797265474",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "OUT WEST",
+      "Artist": "Travis Scott",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://96619405040949",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Pain 1993",
+      "Artist": "Drake",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://79862382286310",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Party Girl",
+      "Artist": "StaySolidRocky",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://94213562363171",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Poke It Out",
+      "Artist": "Playboy Carti",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://96902460479540",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Pretty Boy Swag",
+      "Artist": "Soulja Boy",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://82068024850615",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "R.I.P. Fredo",
+      "Artist": "Playboy Carti",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://91179903191250",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Ransom",
+      "Artist": "Lil Tecca",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://76491039597873",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Ric Flair Drip.",
+      "Artist": "Offset",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://108990824071047",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "ROXANNE",
+      "Artist": "The Police",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://75181962617788",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "SAY MY GRACE",
+      "Artist": "Offset",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://114565859081848",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Shoota",
+      "Artist": "Playboy Carti",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://112856944641684",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "That Go!",
+      "Artist": "Young Stoner Life",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://123580542146895",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "That Way",
+      "Artist": "Tate Mc Rae",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://121368354359873",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "The Box",
+      "Artist": "Roddy Ricch",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://123387626213384",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Suicidal",
+      "Artist": "YNW Melly",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://118234206683901",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "YOSEMITE",
+      "Artist": "Travis Scott",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://88836367977644",
+      "Speed": 0.4000
     }
   ]
 }
