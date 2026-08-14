@@ -3065,14 +3065,6 @@
       "Speed": 0.4000
     },
     {
-      "Title": "Gangsta's Paradise",
-      "Artist": "Coolio",
-      "Genre": "Hip-Hop",
-      "ImageId": "",
-      "SoundId": "rbxassetid://135256595298189",
-      "Speed": 0.4000
-    },
-    {
       "Title": "Everyday",
       "Artist": "Ariana Grande",
       "Genre": "RnB",
@@ -3390,6 +3382,70 @@
       "Genre": "Hip-Hop",
       "ImageId": "",
       "SoundId": "rbxassetid://124051197764823",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Wishing Well",
+      "Artist": "Juice WRLD",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://138342287991173",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Lucid Dreams",
+      "Artist": "Juice WRLD",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://89762447535624",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Robbery",
+      "Artist": "Juice WRLD",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://91384519666677",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "All Girls Are The Same",
+      "Artist": "Juice WRLD",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://87821181172131",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "MONTERO Call Me By Your Name",
+      "Artist": "Lil Nas X",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://109756690443276",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Cancun",
+      "Artist": "Playboi Carti",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://130848400341125",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Warm It Up Kane",
+      "Artist": "Big Daddy Kane",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://133079846537119",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Old Town Road",
+      "Artist": "Lil Nas X",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://108813425505072",
       "Speed": 0.4000
     }
   ]
