@@ -3447,6 +3447,30 @@
       "ImageId": "",
       "SoundId": "rbxassetid://108813425505072",
       "Speed": 0.4000
+    },
+    {
+      "Title": "21 Guns",
+      "Artist": "Green Day",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://93270714393768",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Last Night on Earth",
+      "Artist": "Green Day",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://87106646858506",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "INDUSTRY BABY",
+      "Artist": "Green Day",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://119283048346513",
+      "Speed": 0.4000
     }
   ]
 }
