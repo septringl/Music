@@ -5039,6 +5039,30 @@
       "ImageId": "",
       "SoundId": "rbxassetid://100617568853203",
       "Speed": 0.4000
+    },
+    {
+      "Title": "Switchez",
+      "Artist": "Eazy-E",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://108892406999231",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Hit Em Up",
+      "Artist": "2Pac",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://96301156904585",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "GTA San Andreas 2021",
+      "Artist": "2Pac",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://101925622115497",
+      "Speed": 0.4000
     }
   ]
 }
