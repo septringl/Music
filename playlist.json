@@ -4479,6 +4479,558 @@
       "ImageId": "",
       "SoundId": "rbxassetid://112297671506428",
       "Speed": 0.4000
-    }
+    },
+    {
+      "Title": "Best Ex",
+      "Artist": "$afa",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://86884855009172",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "JANGAN TES",
+      "Artist": "$afa",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://108451887952370",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Kepada Semu",
+      "Artist": "$afa",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://71096339971820",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Lokasi",
+      "Artist": "$afa",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://108271008357378",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Pretty nona",
+      "Artist": "$afa",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://130504837470743",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Salam",
+      "Artist": "$afa",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://89935278573902",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Rich N S",
+      "Artist": "21Savage",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://139963223825169",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "I Wanna Love You",
+      "Artist": "Akon",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://74589670182233",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Allo",
+      "Artist": "Akon",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://139697118217376",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "S",
+      "Artist": "Azura",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://115940359035546",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Paling Beda",
+      "Artist": "Batak Perantau",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://98354516537811",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Brangkat",
+      "Artist": "MURIA",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://91713229044913",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "The Lazy Song",
+      "Artist": "Bruno Mars",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://132807008437600",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "I LUV IT",
+      "Artist": "Camila Cabello & Playboi Carti",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://125922849426557",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Raindance",
+      "Artist": "Dave",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://80134787008623",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "LIFESTYLE",
+      "Artist": "DB MANDALA",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://107407665392072",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Kulitnya Ungu",
+      "Artist": "Dejhan",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://71453049058839",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Secondhand",
+      "Artist": "Don Toliver",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://134914346995160",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "First Person Shooter",
+      "Artist": "Drake",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://105275003416384",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "NOKIA",
+      "Artist": "Drake",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://93882968058748",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Ran To Atlanta",
+      "Artist": "Drake",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://87385144031796",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "French Montana",
+      "Artist": "Unforgettable",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://110070986362690",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Fukumean",
+      "Artist": "Gunna",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://124799976170880",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Big Guy",
+      "Artist": "Ice Spice",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://107614168524569",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "FUK SUMN",
+      "Artist": "Kanye West",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://115526002565786",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Heartless",
+      "Artist": "Kanye West",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://103058746013799",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "I Wonder",
+      "Artist": "Kanye West",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://106788815702113",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Runaway",
+      "Artist": "Kanye West",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://132255597812124",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "CARNIVAL",
+      "Artist": "Kanye West",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://108385951176864",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Luther",
+      "Artist": "Kendrick Lamar",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://140084027067837",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Keyshia Cole",
+      "Artist": "Love",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://134165129694034",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Maui Wowie",
+      "Artist": "Kid Cuddie",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://112258184835887",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Koboi",
+      "Artist": "Leend",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://75765158539102",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Woah",
+      "Artist": "Lil Baby",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://101085585718472",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Slow Down",
+      "Artist": "lucidrari & Concerto",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://132406394557323",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Badut",
+      "Artist": "Lucky Adnan",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://95754558487696",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Payphone",
+      "Artist": "Maroon 5",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://78857690638848",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Alone",
+      "Artist": "Marshmello",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://71995050576748",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Space Cadet",
+      "Artist": "Metro Boomin",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://130699965121188",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Bad and Boujee",
+      "Artist": "Migos",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://75034279136222",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Naykilla",
+      "Artist": "MMG",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://116568294443564",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Break from Toronto",
+      "Artist": "Party Next Door",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://86985229289482",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "M a k e I t T o T h e M o r n i n g",
+      "Artist": "Party Next Door",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://120690261626883",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "2024",
+      "Artist": "Paris",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://121986858184683",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "bukandripiniocean",
+      "Artist": "Paris",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://84720643397178",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Tutup Kuping",
+      "Artist": "Paris",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://91031063644089",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Anak Kampung Lifestyle Rockstar",
+      "Artist": "Paris",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://72083369342958",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Kurang Riset",
+      "Artist": "Quest, Basboi & Wicigo Shawty",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://78550078266329",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "No Type",
+      "Artist": "Rae Sremmurd",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://109008433388992",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Asmara",
+      "Artist": "Raka",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://118905983294311",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "I AM ME",
+      "Artist": "Ramengvrl",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://120744086762584",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Cuma Temen",
+      "Artist": "RYO",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://139741728471331",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Malas",
+      "Artist": "Shamey",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://105896939188535",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "MILLION DOLLAR BABY",
+      "Artist": "Tommy Richman",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://116166986481920",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Emang ea",
+      "Artist": "Toxic Dev",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://95266499044586",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "MAMA BILANG AKU SWAG",
+      "Artist": "Toxic Dev",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://134300212730638",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "See You Again",
+      "Artist": "Tyler",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://81327130595710",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Balikan",
+      "Artist": "Vander",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://82971763146972",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Kampungan",
+      "Artist": "Vander",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://83280503419183",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Gak Main Main",
+      "Artist": "Wichigo Shawty",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://73301600438093",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "See You Again",
+      "Artist": "Wiz Khalifa",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://80887290427895",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Mo Bamba",
+      "Artist": "Sheck Wes",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://121380257199028",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Silentó",
+      "Artist": "Watch Me",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://131726695080043",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Kiss Me Thru The Phone",
+      "Artist": "Soulja Boy",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://79436315488166",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Makasih Tuhan",
+      "Artist": "Tenxi",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://127080396215290",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Heaven Sent",
+      "Artist": "Tevomxntana",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://70840865757339",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "One Of The Girls",
+      "Artist": "The Weekend",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://135864486529212",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Starboy",
+      "Artist": "The Weekend",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://93031358671509",
+      "Speed": 0.4000
+    },
+    {
+      "Title": "Popular",
+      "Artist": "The Weekend",
+      "Genre": "Hip-Hop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://121044166419308",
+      "Speed": 0.4000
+    }    
   ]
 }
